@@ -48,7 +48,7 @@ Organization | IEEE 802 LAN/MAN Standards Committee (LMSC) | https://github.com/
 Organization | ITE | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_Institute_of_Transportation_Engineers.pdf
 Organization | ITS America | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_Intelligent_Transportation_Society_of_America.pdf
 Organization | Motor and Equipment Manufacturers Association (MEMA) | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_Motor_Equipment_Manufacturers_Association.pdf
-Organization | Internet and Television Associatio (NCTA) | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_NCTA_-_The_Internet_Television_Association.pdf
+Organization | Internet and Television Association (NCTA) | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_NCTA_-_The_Internet_Television_Association.pdf
 Organization | NXP Semiconductors | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_NXP_Semiconductors.pdf
 Organization | National Transportation Safety Board | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_National_Transportation_Safety_Board.pdf
 Organization | Safety Spectrum Coalition | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_Safety_Spectrum_Coalition.pdf
