@@ -36,7 +36,7 @@ OEM | Volvo | https://github.com/lslangley/CV_Comments/blob/master/OEMs/Comment_
 Organization | Next Generation Mobile Networks (NGMN) | https://github.com/lslangley/CV_Comments/blob/master/Organizations/181122_NGMN_recommendations_to_EC_on_C-ITS.pdf
 Organization | 5G Automotive Association | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_5G_Automotive_Association.pdf
 Organization | AAA | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_AAA.pdf
-Organization | ASHTO | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_American_Association_of_State_Highway_and_Transportation_Officials.pdf
+Organization | AASHTO | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_American_Association_of_State_Highway_and_Transportation_Officials.pdf
 Organization | ASCE | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_American_Society_of_Civil_Engineers.pdf
 Organization | ATSSA | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_American_Traffic_Safety_Services_Association.pdf
 Organization | American Trucking Association | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_American_Trucking_Associations.pdf
@@ -48,7 +48,7 @@ Organization | IEEE 802 LAN/MAN Standards Committee (LMSC) | https://github.com/
 Organization | ITE | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_Institute_of_Transportation_Engineers.pdf
 Organization | ITS America | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_Intelligent_Transportation_Society_of_America.pdf
 Organization | Motor and Equipment Manufacturers Association (MEMA) | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_Motor_Equipment_Manufacturers_Association.pdf
-Organization | Internet and Television Associatio (NCTA) | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_NCTA_-_The_Internet_Television_Association.pdf
+Organization | Internet and Television Association (NCTA) | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_NCTA_-_The_Internet_Television_Association.pdf
 Organization | NXP Semiconductors | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_NXP_Semiconductors.pdf
 Organization | National Transportation Safety Board | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_National_Transportation_Safety_Board.pdf
 Organization | Safety Spectrum Coalition | https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_Safety_Spectrum_Coalition.pdf
