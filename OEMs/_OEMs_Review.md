@@ -11,10 +11,9 @@
 9. How could deployments, both existing and planned, assess communications needs and determine which technologies are most appropriate and whether and how interoperability could be achieved?
 
 #
-#
+
 #### Table of responses from various Organizations to the USDOT request for comments:
 
-#
 Type | Name | C-V2X | DSRC | Review | Document Link
 ---- | ---- | ---- | ---- | ---- | ---- |
 OEM | America Honda| X | X | Honda responded to all 9 questions and provided the following insight. Honda was an early supporter of DSRC. They recently conducted a reassessment due to continuous delays. The reassessment finds that the spectrum should be shared between 5G and future DSRC, all 7 channels must be preserved for automotive V2X, and a single communications protocol is critical for V2X BSMs to provide benefit. |[Link]( https://github.com/lslangley/CV_Comments/blob/master/OEMs/Comment_from_American_Honda_Motor_Co_.pdf)
