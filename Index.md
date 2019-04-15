@@ -1,7 +1,18 @@
 # USDOT Call for Comments on V2X Communications
 
-This repository serves as a literature review of a selection of the comments submitted to USDOT during their call for comments on V2X Communications.
+This repository serves as a literature review of a selection of the comments submitted to USDOT during their call for comments on V2X Communications. The selected comments were focused to those submitted by Companies, Jurisdictions, OEM's, and Organizations. Not reviewed here are the many comments submitted by members of the public.
+
 The comment period ran from December 26, 2018 - February 25, 2019. Below are some highlights from the request for comments.
+
+Please notify us if you find we have erred in any of the reviews. We strive to be accurate and transparent.
+
+### Quick Links
+1. [Overview Document - Table of all responses reviewed in this repository](https://github.com/lslangley/CV_Comments/blob/master/Overview.md)
+2. [Review of responses from Companies *In Progress](https://github.com/lslangley/CV_Comments/blob/master/Companies/_Companies_Review.md)
+3. [Review of responses from Jurisdictions](https://github.com/lslangley/CV_Comments/blob/master/Jurisdictions/_Jurisdictions_Review.md)
+4. [Review of responses from OEMs *In Progress](https://github.com/lslangley/CV_Comments/blob/master/OEMs/_OEMs_Review.md)
+5. [Review of responses from Organizations](https://github.com/lslangley/CV_Comments/blob/master/Organizations/_Organizations_Review.md)
+#
 
 Title | Source
 ------|-------
@@ -10,14 +21,14 @@ URL | https://www.regulations.gov/docket?D=DOT-OST-2018-0210
 Agency | Office of the Secretary, Department of Transportation (DOT).
 Contact Email | automation@dot.gov
 Policy Contact Name and Phone | Sujeesh Kurup (202–366–9953)
-Legal Contact Name and Phone | Timothy Mullins (202–
-366–9038)
+Legal Contact Name and Phone | Timothy Mullins (202–366–9038)
+#
 
 ### Summary from Call for Comments:
 > Over the past several years, the Department of Transportation and its operating administrations have engaged in numerous activities related to connected vehicles, including vehicle-to-vehicle (V2V), vehicle-to infrastructure (V2I), and vehicle-to pedestrian (V2P) communications, collectively referred to as ‘‘V2X’’ communications. Recently, there have been developments in core aspects of the
 communication technologies that could be associated with V2X. This notice requests comment on how these developments impact both V2X in general and the Department’s role in encouraging the integration of V2X.
 
-### SUPPLEMENTARY INFORMATION from Call for Comments:
+### Supplementary Information from Call for Comments:
 > Over the past several years, the Department of Transportation (Department or DOT) and its operating administrations have engaged in numerous activities related to connected vehicles, which generally encompass vehicle-to-vehicle (V2V), vehicle-to-infrastructure (V2I), and vehicle-to-pedestrian (V2P) communications, collectively known as ‘‘V2X.’’ These activities are based on the Department’s view that V2X technologies have the potential for significant safety and mobility benefits, both on their own and as complementary technologies when combined with in-vehicle sensors supporting the integration of automated vehicles and other innovative applications such as platooning.
 The agency’s connected vehicle activities have primarily centered on utilizing Dedicated Short-Range Communications (DSRC), which is consistent with the longstanding and current Federal Communications Commission (FCC) allocation of the 5.9 GHz radio frequency band, as discussed below. Most prominently, the National Highway Traffic Safety Administration (NHTSA), an operating administration of DOT, issued a notice of proposed rule making (NPRM) to mandate V2V communications for new light-duty vehicles and to standardize the format and performance requirements of V2V messages.**[1]** The NPRM identified DSRC as the primary communication medium, but also included provisions for other mediums if they could meet certain ‘‘performance and interoperability requirements, which are based on the capabilities of today’s DSRC-based V2V communications.’’ **[2]** In addition to the NHTSA NPRM, the Department, State and local governments, and industry are taking many other actions in developing and deploying V2X technologies. For example, General Motors recently announced that it will be expanding DSRC-based V2X deployment on future Cadillac vehicles, following-up the first U.S. production V2X deployment in the 2017 Cadillac CTS,**[3]** and Toyota announced it would begin offering DSRC-based V2V technology on selected models beginning in 2021.**[4]** There has also been considerable progress by State and local governments in deploying V2X technology, in addition to DOT-funded deployment programs, such as the Ann Arbor Connected Vehicle Environment, Connected Vehicle Pilots Program, and the Advanced Transportation and Congestion Management Technologies Deployment Program. All told, the Department understands that **by the end of 2018, there will be more than 18,000 vehicles deployed with aftermarket DSRC-based V2X communications devices and more than 1,000 infrastructure V2X devices installed at intersections and along roadways in 25 States.** Significant work has also been done on the development of the ‘‘Security Credential Management System’’ (SCMS) for V2X communications, both by the Department and industry partners (specifically, the Crash Avoidance Metrics Partnership, LLC (CAMP)), and other private sector organizations. In addition, there have been developments in core aspects of the communication technologies needed for V2X, which have raised questions about how the Department can best ensure that the safety and mobility benefits of connected vehicles are achieved without interfering with the rapid technological innovations occurring in both the automotive and telecommunications industries.
 
