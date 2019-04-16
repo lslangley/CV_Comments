@@ -1,7 +1,12 @@
-#### Table of responses from various Organizations to the USDOT request for comments:
+##### All summaries are meant to be objective and provide a brief summary of what can be found in the Document link. If you find that anything appears to have been misportrayed please let us know via the [issues section](https://github.com/lslangley/CV_Comments/issues).
+#
+#
+#
+
+### Table of responses from various Organizations to the USDOT request for comments:
 
 #
-Type | Name | C-V2X | DSRC | Review | Document Link
+Type | Name | C-V2X | DSRC | Summary | Document Link
 ---- | ---- | ---- | ---- | ---- | ---- |
 OEM | America Honda| X | X | Honda responded to all 9 questions and provided the following insight. Honda was an early supporter of DSRC. They recently conducted a reassessment due to continuous delays. The reassessment finds that the spectrum should be shared between 5G and future DSRC, all 7 channels must be preserved for automotive V2X, and a single communications protocol is critical for V2X BSMs to provide benefit. |[Link]( https://github.com/lslangley/CV_Comments/blob/master/OEMs/Comment_from_American_Honda_Motor_Co_.pdf)
 OEM | Ford | X | | Ford submitted a response to all 9 of USDOT's questions. Ford also submitted a concept of functional interoperability which they state will allow for DSRC and Cellular based V2X to achieve functional interoperability. In the end, Ford believes that the technologies will converge. "We define functional interoperability as the ability for the information that vehicles and other transportation stakeholders exchange through V2X to be semantically coherent regardless of the medium through which such information is delivered, as long as safety critical requirements (for example latency and reliability) are met." Interoperability across the two wavelengths (DSRC and Cellular) will need an interworking point via and RSU.  | [Link](https://github.com/lslangley/CV_Comments/blob/master/OEMs/Comment_from_Ford_Motor_Company.pdf)

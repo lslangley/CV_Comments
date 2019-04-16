@@ -1,7 +1,12 @@
-#### Table of responses from various Organizations to the USDOT request for comments:
+##### All summaries are meant to be objective and provide a brief summary of what can be found in the Document link. If you find that anything appears to have been misportrayed please let us know via the [issues section](https://github.com/lslangley/CV_Comments/issues).
+#
+#
+#
+
+### Table of responses from various Organizations to the USDOT request for comments:
 
 #
-Type | Name | C-V2X | DSRC | CV PFS Member | Review | Document Link
+Type | Name | C-V2X | DSRC | Summary | Document Link
 ---- | ---- | ---- | ---- | ---- | ---- |---- |
 Jurisdiction | Arizona Department of Transportation (ADOT) | |X|X| ADOT cites a lack of endorsement of DSRC from USDOT as creating uncertainty and delays in implementation and calls for USDOT to endorse DSRC due t it's proven capabilities. | [Link](https://github.com/lslangley/CV_Comments/blob/master/Jurisdictions/Comment_from_Arizona_Department_of_Transportation.pdf)
 Jurisdiction | California Department of Transportation (CALTRANS)| |X | X| CALTRANS is a pioneer of DSRC deployment and believes DSRC will continue to improve safety and mobility of vehicles using V2V and V1 applications. CALTRANS responded to each of USDOT's 9 questions. In their answers, CALTRANS notes DSRC having dedicated spectrum allows for better security and lower cost than current C-V2X deployments. DSRC has no recurring monthly fees unlike cellular based solutions. DSRC also is not reliant on carriers for system infrastructure robustness. Similar concerns are noted for 5G based CV solutions. CALTRANS discourages sharing the spectrum band with non-DSRC technologies because they are likely to cause harmful interference or limit DSRC operation completely.   [Link](https://github.com/lslangley/CV_Comments/blob/master/Jurisdictions/Comment_from_California_Department_of_Transportation.pdf)

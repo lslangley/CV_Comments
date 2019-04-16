@@ -1,8 +1,13 @@
 
-#### Table of responses from various Organizations to the USDOT request for comments:
+##### All summaries are meant to be objective and provide a brief summary of what can be found in the Document link. If you find that anything appears to have been misportrayed please let us know via the [issues section](https://github.com/lslangley/CV_Comments/issues).
+#
+#
+#
+
+### Table of responses from various Organizations to the USDOT request for comments:
 
 #
-Type | Name | C-V2X | DSRC| Review | Document Link
+Type | Name | C-V2X | DSRC | Summary | Document Link
 ---- | ---- | ---- | ---- | ---- | ---- |
 Organization | Next Generation Mobile Networks (NGMN) | X | | * 30 million safety use cases to date. * Supports a 3GPP standardization for short and long-range communications compliant with C-ITS ecosystem. * Bicyclist and Pedestrian applicability * Believes C-V2X is superior to IEE802.11 Standards. * Previously recommended USDOT stay technology neutral * C-V2X solutions currently over LTE should transition easily to 5G.  |[Link](https://github.com/lslangley/CV_Comments/blob/master/Organizations/181122_NGMN_recommendations_to_EC_on_C-ITS.pdf)
 Organization | 5G Automotive Association | X | | Would like to see C-V2X and DSRC share 5.9 GHz V2X band. Believe C-V2X is superior to DSRC for the following five reasons: **1.** superior radio performance that enables new and improved V2X safety and other applications **2.** the ability to leverage commercial cellular networks **3.** an evolutionary path to 5G that will unlock advanced V2X services supporting autonomous driving **4.** an accelerated timeline for deployment **5.** optimized security protocol.| [Link](https://github.com/lslangley/CV_Comments/blob/master/Organizations/Comment_from_5G_Automotive_Association.pdf)
